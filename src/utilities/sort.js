@@ -1,0 +1,1 @@
+// const mapOrder = (array, order)
